@@ -87,7 +87,7 @@ Cognifyz数据分析实习任务|Zomato 全球餐厅数据集分析（level 1 + 
 🙏 Acknowledgments
 特别感谢：
 
-heyamay 的开源项目:Consumer-Trends-and-Preferences-in-the-Restaurant-Industry
+@heyamay 的开源项目:[Consumer-Trends-and-Preferences-in-the-Restaurant-Industry](https://github.com/heyamay/Consumer-Trends-and-Preferences-in-the-Restaurant-Industry)
 其项目结构和分析思路给了我很大的启发和参考。
 Cognifyz Technologies 提供的数据分析实习任务
 Zomato 公开的全球餐厅数据集
