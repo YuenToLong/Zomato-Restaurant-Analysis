@@ -73,8 +73,8 @@ Cognifyz数据分析实习任务|Zomato 全球餐厅数据集分析（level 1 + 
 ### 🚀 如何运行
 
 1. 克隆仓库
-   ```bash
-   git clone https://github.com/YuenToLong/Zomato-Restaurant-Analysis.git
+   [```bash
+   git clone https://github.com/YuenToLong/Zomato-Restaurant-Analysis.git](https://github.com/YuenToLong/Zomato-Restaurant-Analysis.git)
 
 2.安装依赖
   pip install pandas plotly folium matplotlib
